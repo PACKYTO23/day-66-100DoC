@@ -5,3 +5,4 @@ Day 66 - Advanced - Building Your Own API with RESTful Routing
 
 Specific (and short) notes and titles written in main.py.
   Unfinished practice (05/08/2024); update tomorrow.
+    Finished practice (06/08/2024); updated.
